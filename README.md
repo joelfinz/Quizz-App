@@ -1,2 +1,8 @@
-# Quizz-App
-A Simple Quiz App which was made using Flutter and Dart.
+# fresh
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
